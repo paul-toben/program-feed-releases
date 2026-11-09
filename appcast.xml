@@ -2,5 +2,14 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Program Feed</title>
+    <item>
+        <title>Version 0.1.10 (28)</title>
+        <pubDate>Mon, 09 Nov 2026 16:45:29 GMT</pubDate>
+        <sparkle:version>28</sparkle:version>
+        <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+        <description><![CDATA[<p>Program Feed now keeps itself up to date.</p><ul><li>Program Feed checks for a new version once a day and offers to install it.</li><li>Program Feed ▸ Check for Updates… checks now.</li></ul>]]></description>
+        <enclosure url="https://github.com/paul-toben/program-feed-releases/releases/download/v0.1.10-28/ProgramFeed-0.1.10-28.zip" type="application/octet-stream" sparkle:edSignature="V17/P/cLx/On/RTdL4VH5cf4vV0Gzd1f3fgDnxqA+oc03mUzhBf/yLa4tIuUi9mdAALZousywmVmxOxWJqkDDw==" length="8934336"/>
+    </item>
   </channel>
 </rss>
