@@ -3,6 +3,15 @@
   <channel>
     <title>Program Feed</title>
     <item>
+        <title>Version 0.1.10 (29)</title>
+        <pubDate>Tue, 10 Nov 2026 20:15:24 GMT</pubDate>
+        <sparkle:version>29</sparkle:version>
+        <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+        <description><![CDATA[<p>Cue durations on the timeline, a license agreement, and a gentler unstar.</p><ul><li>Cue durations: each cue in the Cues lane now shows a gold line running to where the cue finishes, using the times downloaded from Eos. A button in the Cues track header shows or hides them.</li><li>License agreement: Program Feed is freeware. The license is under Program Feed ▸ License Agreement… and summarized in the About panel; you&#x27;ll be asked to agree to it once on first launch.</li><li>Starred at Top: a recording or group you unstar stays put for 2 seconds before it moves, so a slip can be starred again right away.</li></ul>]]></description>
+        <enclosure url="https://github.com/paul-toben/program-feed-releases/releases/download/v0.1.10-29/ProgramFeed-0.1.10-29.zip" type="application/octet-stream" sparkle:edSignature="YKAPGarmDn8dsA31LPV4XyniRhcYKOp7qnvQvlQJ5t01ZAnap42tX44EBo2fJd9fV/sHNvSnQcHdABWT8yEoDg==" length="8979407"/>
+    </item>
+    <item>
         <title>Version 0.1.10 (28)</title>
         <pubDate>Mon, 09 Nov 2026 16:45:29 GMT</pubDate>
         <sparkle:version>28</sparkle:version>
