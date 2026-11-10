@@ -10,5 +10,5 @@ Updates…).
 
 ## License
 
-Program Feed a thing I made for myself. You're free to use it, but not to sell, publish or redistribute it. It is provided as is, with no warranty and
+Program Feed is a thing I made for myself. You're free to use it, but not to sell, publish or redistribute it. It is provided as is, with no warranty and
 no support. Don't call me to fix it when it's broken. Installing or using it means you accept the [license agreement](LICENSE.md).
