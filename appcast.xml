@@ -3,6 +3,15 @@
   <channel>
     <title>Program Feed</title>
     <item>
+        <title>Version 0.1.10 (30)</title>
+        <pubDate>Wed, 11 Nov 2026 22:12:28 GMT</pubDate>
+        <sparkle:version>30</sparkle:version>
+        <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+        <description><![CDATA[<p>Export keeps your recording as it is by default, and the Export window is tidier.</p><ul><li>Export defaults to Original video and Original audio, so nothing is re-encoded unless you choose to. Original audio uses the recording&#x27;s own format and bitrate for the channels you route; when the routing matches the recording exactly, the sound is copied untouched. Files with more than two channels are always marked as separate channels, never surround, so timecode can&#x27;t be downmixed.</li><li>Choosing Original video also sets Resolution to Original.</li><li>The Output menus are all the same width and line up, and Save to sits under Name.</li><li>The Export window opens tall enough to show everything when the screen allows, and you can make it taller or shorter.</li><li>A badge beside the estimated size shows how much bigger (red) or smaller (green) the export is than the same stretch of the original. The video badge names the actual format, such as H.264, when Original is chosen.</li><li>Searching cues and markers in the inspector: clearing the search (the ✕ or Esc) scrolls the full list to the selected cue, or to the current one when nothing is selected, so a cue you found stays in view. On the iPad too.</li></ul>]]></description>
+        <enclosure url="https://github.com/paul-toben/program-feed-releases/releases/download/v0.1.10-30/ProgramFeed-0.1.10-30.zip" type="application/octet-stream" sparkle:edSignature="qGVqz1lMe95gtPid9XY/hpCK8gUmzhlxYvsXbdX2kOi3GcizJX6p/CZ4UQV7x25R8OPKUIm1Gc+ufSNuGKlDDw==" length="9012700"/>
+    </item>
+    <item>
         <title>Version 0.1.10 (29)</title>
         <pubDate>Tue, 10 Nov 2026 20:15:24 GMT</pubDate>
         <sparkle:version>29</sparkle:version>
