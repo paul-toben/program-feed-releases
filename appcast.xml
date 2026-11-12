@@ -3,6 +3,15 @@
   <channel>
     <title>Program Feed</title>
     <item>
+        <title>Version 0.1.10 (31)</title>
+        <pubDate>Thu, 12 Nov 2026 19:34:47 GMT</pubDate>
+        <sparkle:version>31</sparkle:version>
+        <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+        <description><![CDATA[<p>Steadier with a show folder on a network share over weak Wi-Fi.</p><ul><li>When a recording waits 20 seconds on the show folder, the status bar says the show folder isn&#x27;t answering, with Cancel. You can open another recording meanwhile.</li><li>The browser asks a network share less about each file, so a slow share holds things up less.</li><li>Settings ▸ Analysis ▸ Background Analysis of New Files has Include subfolders, off by default: the background analysis looks only at the show folder&#x27;s top level unless it&#x27;s on.</li></ul>]]></description>
+        <enclosure url="https://github.com/paul-toben/program-feed-releases/releases/download/v0.1.10-31/ProgramFeed-0.1.10-31.zip" type="application/octet-stream" sparkle:edSignature="8LCG91VyTyKcJYGHkmR5wqyNgocR+t2DpmG4nNjwTppHPscHPwxkc/B7Jsm7JXMfkfOdd/uQe0xcqVmg0u1JAA==" length="9023896"/>
+    </item>
+    <item>
         <title>Version 0.1.10 (30)</title>
         <pubDate>Wed, 11 Nov 2026 22:12:28 GMT</pubDate>
         <sparkle:version>30</sparkle:version>
