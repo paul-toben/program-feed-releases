@@ -3,6 +3,15 @@
   <channel>
     <title>Program Feed</title>
     <item>
+        <title>Version 0.1.10 (33)</title>
+        <pubDate>Sat, 14 Nov 2026 19:31:22 GMT</pubDate>
+        <sparkle:version>33</sparkle:version>
+        <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+        <description><![CDATA[<p>Fixes a freeze with a show folder on a network share.</p><ul><li>The browser no longer freezes while it draws or opens a group on a slow network share.</li><li>The log says where the time went when a recording is slow to open, for Help ▸ Export Diagnostics.</li></ul>]]></description>
+        <enclosure url="https://github.com/paul-toben/program-feed-releases/releases/download/v0.1.10-33/ProgramFeed-0.1.10-33.zip" type="application/octet-stream" sparkle:edSignature="kO/bFrHP/sB6Q0y2/27dhFPD4PQ9vjsQXBG3b1TvTMWqzkWIhsie4y2V8mziSq7WAWku6XqT9Y0jDUgMEAUiCw==" length="9025884"/>
+    </item>
+    <item>
         <title>Version 0.1.10 (31)</title>
         <pubDate>Thu, 12 Nov 2026 19:34:47 GMT</pubDate>
         <sparkle:version>31</sparkle:version>
