@@ -3,6 +3,15 @@
   <channel>
     <title>Program Feed</title>
     <item>
+        <title>Version 0.1.10 (34)</title>
+        <pubDate>Tue, 17 Nov 2026 19:02:32 GMT</pubDate>
+        <sparkle:version>34</sparkle:version>
+        <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+        <description><![CDATA[<p>The cue list keeps your cue in view, and file commands in the browser work on a whole selection.</p><ul><li>Jumping to a far-off cue (Follow Eos, Go to Cue) now lands with that cue in view, instead of short of it.</li><li>Clicking a cue in the list pauses Follow Timeline, so playback doesn&#x27;t scroll it away. Moving the playhead yourself resumes following.</li><li>When the current cue is scrolled out of view, Follow Timeline turns into Show Timeline Cue, outlined in red. Click it to select that cue and scroll back to it.</li><li>Selecting a second cue near the bottom of the list no longer hides it behind the Measurement panel.</li><li>A marker and a cue at the same time: the one you go to is now the one outlined.</li><li>In the browser, Star, Download, Remove Download, Move to…, Move to Trash and Reveal in Finder act on all selected recordings. Move to… opens at the folder you last chose.</li></ul>]]></description>
+        <enclosure url="https://github.com/paul-toben/program-feed-releases/releases/download/v0.1.10-34/ProgramFeed-0.1.10-34.zip" type="application/octet-stream" sparkle:edSignature="2/6E4ycrcSqrH5L6+8a5TUzXAUq8GU0jnxsa7DTCw98n/RP32EofUiw5caimNimfN4LEsQQgL+/oR8kq/DA1DA==" length="9061087"/>
+    </item>
+    <item>
         <title>Version 0.1.10 (33)</title>
         <pubDate>Sat, 14 Nov 2026 19:31:22 GMT</pubDate>
         <sparkle:version>33</sparkle:version>
