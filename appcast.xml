@@ -3,6 +3,15 @@
   <channel>
     <title>Program Feed</title>
     <item>
+        <title>Version 0.1.10 (36)</title>
+        <pubDate>Thu, 19 Nov 2026 05:05:25 GMT</pubDate>
+        <sparkle:version>36</sparkle:version>
+        <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+        <description><![CDATA[<p>The recording commands in the File menu now follow list order.</p><ul><li>File lists First Recording (⇧⌘↑), Previous Recording (⌘↑), Next Recording (⌘↓) and Last Recording (⇧⌘↓), top to bottom.</li></ul>]]></description>
+        <enclosure url="https://github.com/paul-toben/program-feed-releases/releases/download/v0.1.10-36/ProgramFeed-0.1.10-36.zip" type="application/octet-stream" sparkle:edSignature="CTukEKq8cf393xD8vE2nuT8QUMQFCH52Tocn3LnNt3ws4XDHl7mJHgUS+jLebK6AmtdQG9SkrzccJmMw/rO0Cg==" length="9060760"/>
+    </item>
+    <item>
         <title>Version 0.1.10 (35)</title>
         <pubDate>Thu, 19 Nov 2026 04:53:22 GMT</pubDate>
         <sparkle:version>35</sparkle:version>
