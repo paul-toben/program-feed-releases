@@ -3,6 +3,15 @@
   <channel>
     <title>Program Feed</title>
     <item>
+        <title>Version 0.1.10 (35)</title>
+        <pubDate>Thu, 19 Nov 2026 04:53:22 GMT</pubDate>
+        <sparkle:version>35</sparkle:version>
+        <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+        <description><![CDATA[<p>Jump straight to either end of the recording list.</p><ul><li>File ▸ First Recording (⇧⌘↑) and Last Recording (⇧⌘↓) open the first or last recording in the browser, like the /programfeed/file/first and /last OSC commands.</li><li>The OSC command list in Settings ▸ Connections now names the matching menu item and keyboard shortcut for each command, and the other spellings each one accepts.</li></ul>]]></description>
+        <enclosure url="https://github.com/paul-toben/program-feed-releases/releases/download/v0.1.10-35/ProgramFeed-0.1.10-35.zip" type="application/octet-stream" sparkle:edSignature="5DgjBi8qygFsLougDEyLjmbT0bJWplhCRdUTjbUgtFUI0jYykHWatBywhbnMukSyYVuiBUuyAkn0C9G8W5XQAQ==" length="9061399"/>
+    </item>
+    <item>
         <title>Version 0.1.10 (34)</title>
         <pubDate>Tue, 17 Nov 2026 19:02:32 GMT</pubDate>
         <sparkle:version>34</sparkle:version>
